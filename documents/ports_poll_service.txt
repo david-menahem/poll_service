@@ -1,0 +1,3 @@
+poll_service:
+localhost: 8001
+database: poll_service: 3308

@@ -1,0 +1,45 @@
+
+{
+"first_name": "John",
+"last_name": "Doe",
+"email": "john.doe@example.com",
+"age": 30,
+"address": "123 Main St, Springfield, IL",
+"joining_date": "2024-01-15"
+}
+
+{
+"first_name": "Jane",
+"last_name": "Smith",
+"email": "jane.smith@example.com",
+"age": 25,
+"address": "456 Oak St, Lincoln, NE",
+"joining_date": "2023-09-20"
+}
+
+{
+"first_name": "Michael",
+"last_name": "Brown",
+"email": "michael.brown@example.com",
+"age": 40,
+"address": "789 Pine St, Denver, CO",
+"joining_date": "2022-05-10"
+}
+
+{
+"first_name": "Emily",
+"last_name": "Johnson",
+"email": "emily.johnson@example.com",
+"age": 35,
+"address": "321 Maple St, Austin, TX",
+"joining_date": "2023-03-12"
+}
+
+{
+"first_name": "David",
+"last_name": "Lee",
+"email": "david.lee@example.com",
+"age": 28,
+"address": "654 Birch St, Portland, OR",
+"joining_date": "2024-07-18"
+}

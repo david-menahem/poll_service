@@ -1,0 +1,79 @@
+{
+	"title": "What is the capital of France?",
+	"first_choice": "Paris",
+	"second_choice": "Berlin",
+	"third_choice": "Rome",
+	"forth_choice": "Madrid"
+}
+
+{
+	"title": "Which planet is known as the Red Planet?",
+	"first_choice": "Earth",
+	"second_choice": "Mars",
+	"third_choice": "Jupiter",
+	"forth_choice": "Venus"
+}
+
+{
+	"title": "What is the largest ocean on Earth?",
+	"first_choice": "Atlantic Ocean",
+	"second_choice": "Indian Ocean",
+	"third_choice": "Pacific Ocean",
+	"forth_choice": "Arctic Ocean"
+}
+
+{
+	"title": "Who wrote 'Romeo and Juliet'?",
+	"first_choice": "Mark Twain",
+	"second_choice": "William Shakespeare",
+	"third_choice": "Charles Dickens",
+	"forth_choice": "Jane Austen"
+}
+
+{
+	"title": "What is the chemical symbol for water?",
+	"first_choice": "O2",
+	"second_choice": "H2O",
+	"third_choice": "CO2",
+	"forth_choice": "NaCl"
+}
+
+{
+	"title": "What is the square root of 64?",
+	"first_choice": "6",
+	"second_choice": "7",
+	"third_choice": "8",
+	"forth_choice": "9"
+}
+
+{
+	"title": "Which country is known as the Land of the Rising Sun?",
+	"first_choice": "China",
+	"second_choice": "Japan",
+	"third_choice": "Thailand",
+	"forth_choice": "South Korea"
+}
+
+{
+	"title": "How many continents are there?",
+	"first_choice": "5",
+	"second_choice": "6",
+	"third_choice": "7",
+	"forth_choice": "8"
+}
+
+{
+	"title": "What is the powerhouse of the cell?",
+	"first_choice": "Nucleus",
+	"second_choice": "Mitochondria",
+	"third_choice": "Ribosome",
+	"forth_choice": "Endoplasmic Reticulum"
+}
+
+{
+	"title": "What is the boiling point of water in Celsius?",
+	"first_choice": "90°C",
+	"second_choice": "100°C",
+	"third_choice": "110°C",
+	"forth_choice": "120°C"
+}
